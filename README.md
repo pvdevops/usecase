@@ -49,17 +49,7 @@ Clone the project and navigate to the aws_python_terraform project,
 
 NOTE: Use `terraform destroy` to delete all the resources that was created. 
 
-
-**Configuration Files Explained**
-
-Terraform Files - https://github.com/rohitravipati/DevOpsPuzzle/tree/master/terraform
-
-1. Vars - https://github.com/rohitravipati/DevOpsPuzzle/blob/master/terraform/vars.tf
-
-	***TODO*** - Include the unique S3 bucket name in the same region that was created. 
-
-2. Cloudwatch -  https://github.com/rohitravipati/DevOpsPuzzle/blob/master/terraform/cloudwatch.tf
  
-	***TODO / Improvements*** - To run the service at regurlar intervals, include [Scheduled tasks](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/scheduled_tasks.html) / include it in the terraform configuration file. 
+***TODO / Improvements*** - To run the service at regurlar intervals, include [Scheduled tasks](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/scheduled_tasks.html) / include it in the terraform configuration file. 
 
-Docker/Application Files - https://github.com/rohitravipati/DevOpsPuzzle/tree/master/docker/myapp
+

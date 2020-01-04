@@ -36,11 +36,11 @@ stage('Docker Build & Push')
         sh 'terraform apply'
     }
  }
- /*
+ 
  stage('Destroy') {
     dir('terraform') {
         sh 'terraform destroy -force'
     }
  }
- */
+ 
 }

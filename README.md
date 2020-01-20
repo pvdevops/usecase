@@ -13,7 +13,7 @@ The Source code in GitHub is integrated with Jenkins through webhooks, any chang
 Clone the project and navigate to the aws_python_terraform project, 
 
     
-    git clone https://github.com/rohitravipati/DevOpsPuzzle.git
+    git clone https://github.com/pvdevops/usecase.git
     
 
 *The project assumes that the user has the best understanding on the [Best Practices for Managing AWS Access Keys](https://docs.aws.amazon.com/general/latest/gr/aws-access-keys-best-practices.html) or Using any third party tools like Vault.* 
